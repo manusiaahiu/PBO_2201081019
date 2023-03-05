@@ -1,0 +1,28 @@
+/*
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
+ */
+package ferdi030323;
+
+/**
+ *
+ * @author USER
+ */
+public class VariabelSamples {
+    public static void main(String[] args) {
+        //deklarasi tipe data dengan nama variabel
+        //result dan tipe data boolean
+        boolean result;
+        
+        //deklarasi tipe data dengan nama variabel
+        //result dan tipe data char
+        char option;
+        option = 'C'; //menandai C sebagai option
+        
+        //deklarasi tipe data dengan nama variabel
+        //grade, double tipe data dan telah diinisialisai
+        //to 0.0
+        double grade = 0.0;
+    }
+    
+}
