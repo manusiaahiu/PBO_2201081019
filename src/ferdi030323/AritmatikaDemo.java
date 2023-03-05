@@ -6,7 +6,7 @@ package ferdi030323;
 
 /**
  *
- * @author USER
+ * @author Ferdi
  */
 public class AritmatikaDemo {
     public static void main(String[] args) {
