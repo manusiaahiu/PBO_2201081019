@@ -6,7 +6,7 @@ package ferdi030323;
 
 /**
  *
- * @author USER
+ * @author ferdi
  */
 public class OutputVariabel {
     public static void main(String[] args) {

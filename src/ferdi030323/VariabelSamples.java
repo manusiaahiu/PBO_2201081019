@@ -6,7 +6,7 @@ package ferdi030323;
 
 /**
  *
- * @author USER
+ * @author ferdi
  */
 public class VariabelSamples {
     public static void main(String[] args) {
