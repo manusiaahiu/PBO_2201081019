@@ -6,7 +6,7 @@ package ferdi16052023;
 
 /**
  *
- * @author USER
+ * @author ferdi
  */
 public class StudentRecordExm {
     public static void main(String[] args) {

@@ -3,10 +3,10 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/D:/NetBeansProjects/PBO_2201081019/src/ferdi16052023/StudentRecord.java</file>
-            <file>file:/D:/NetBeansProjects/PBO_2201081019/src/ferdi16052023/BukuAlamat.java</file>
-            <file>file:/D:/NetBeansProjects/PBO_2201081019/src/ferdi16052023/BukuAlamatData.java</file>
-            <file>file:/D:/NetBeansProjects/PBO_2201081019/src/ferdi16052023/StudentRecordExm.java</file>
+            <file>file:/D:/NetBeansProjects/PBO_2201081019/src/ferdi/model/AnggotaDao.java</file>
+            <file>file:/D:/NetBeansProjects/PBO_2201081019/src/ferdi/model/controller/AnggotaController.java</file>
+            <file>file:/D:/NetBeansProjects/PBO_2201081019/src/ferdi/model/Anggota.java</file>
+            <file>file:/D:/NetBeansProjects/PBO_2201081019/src/ferdi/model/view/FormAnggota.java</file>
         </group>
     </open-files>
 </project-private>
